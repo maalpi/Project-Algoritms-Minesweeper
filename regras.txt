@@ -1,0 +1,25 @@
+O Tabuleiro:
+
+  O Tabuleiro do campo minado possui 81 quadrados e 15 bombas colocadas de forma aleatoria nele.
+
+
+Como jogar:
+
+  As regras do Campo Minado são simples
+
+  Primeiramente aparecerar um tabuleiro com colunas em linhas. Em seguida você  pressiona 'C' e coloca a linha e coluna que quer abrir um quadrado.
+
+  Se você descobrir uma bomba, o jogo acaba.
+
+  Se descobrir um quadrado vazio, aparecerar um número, ele informará quantas bombas estão escondidas nos quadrados que o cercam. Você usa essa informação para deduzir em que quadrados próximos é seguro colocar as coordenadas.
+
+
+Dicas:
+
+	-Marque as bombas
+
+     		.Se você suspeita que um quadrado contém uma bomba, pressione 'B' e em seguida coloque as coordenadas. Isso marca o quadrado com uma bandeira.
+
+	-Estude os padrões
+
+     		.Se três quadrados seguidos exibirem os números 2, 3 e 2, provavelmente haverá três minas alinhadas ao lado desses números. Se um quadrado mostrar o número 8, todos os quadrados que o circundam estarão com bombas. 
